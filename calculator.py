@@ -51,6 +51,6 @@ def calculator():
 
     except exception as e:
         print(f"invalid operation: {e}")
-    print("developer by: kira & nejimi")
+    print("developer by: kal")
 
 calculator()
